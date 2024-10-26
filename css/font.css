@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Belladonia';
+    src: url('../fonts/Belladonia.eot');
+    src: url('../fonts/Belladonia.eot#iefix') format('embedded-opentype'),
+         url('../fonts/Belladonia.woff2') format('woff2'),
+         url('../fonts/Belladonia.woff') format('woff'),
+         url('../fonts/Belladonia.ttf')  format('truetype'),
+         url('../images/Belladonia.svg#Belladonia') format('svg');
+}
